@@ -1,0 +1,5 @@
+python-decouple
+pandas
+requests
+tqdm
+fire
